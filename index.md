@@ -8,7 +8,7 @@
       <p><b>地址：浙江省金华市兰溪市邮编321100</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">   
+      <img src="/zhengjianzhao.jpg" width="100%">      ![证件照](/zhengjianzhao.jpg)
     </td>
   </tr>
 </table>
